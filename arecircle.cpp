@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    double radius,area,circum;
+    float radius,area,circum;
     cout<<"Enter radius of circle"<<endl;
     cin>>radius;
     circum=2*3.14*radius;
